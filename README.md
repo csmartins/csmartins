@@ -22,6 +22,12 @@
 - 🗺️ Open source enthusiast
 
 #### Projects I'm working on
+
+2022
+- 📊 Guessing my supermarket products list
+- 🔍 A universal price tracker
+
+As of 2021
 - 📝 Mastering Python
 - 📝 Mastering Kubernetes
 - 📝 Learning Go
