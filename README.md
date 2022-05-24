@@ -8,6 +8,8 @@
 - 🥁 Long time drummer and lover of batuque
 - 💻 Love Python and automating things, at work or in my personal life
 - 📈 I believe in data and in data only
+- 🧠 Love DevOps culture
+- 🗺️ Open source enthusiast
 - 🏅 Strong believer of team work, collaboration and self managed teams
 - ♾️ You build it, you run it
 - 🏃 Enjoy sports in general, I watch and cheer for almost any game. Love to move and workout
@@ -16,10 +18,7 @@
 #### What I do
 - 🤖 Automate things
 - 🔨 Break and fix things
-- 👷 SRE at [Stone](https://www.stone.com.br)
-- 🧠 Love DevOps culture
-- 😮 Missing organizing conferences and giving people space to share their ideas
-- 🗺️ Open source enthusiast
+- 👷 SRE at [Wildlife Studios](https://wildlifestudios.com/)
 
 #### Projects I'm working on
 
